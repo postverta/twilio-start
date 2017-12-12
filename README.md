@@ -1,6 +1,6 @@
 # Startup project for Twilio API
 
-[![Run with Postverta badge](http://postverta.io/badge.svg)](http://postverta.io/direct/postverta/twilio-start)
+[![Run with Postverta badge](https://postverta.com/badge.svg)](http://postverta.io/direct/postverta/twilio-start)
 
 The project shows you how to build a simple voice and SMS service with Twilio API.
 
